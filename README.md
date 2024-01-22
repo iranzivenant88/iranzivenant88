@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iranzivenant88&label=Profile%20views&color=0e75b6&style=flat" alt="iranzivenant88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iranzivenant88" alt="iranzivenant88" /></a> </p>
-
 - 🔭 I’m currently working on **Java spring boot microservice project**
 
 - 🌱 I’m currently learning **Python**
