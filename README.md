@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any software related projects and challenges**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Solidarity**
 
 - 💬 Ask me about **Java,SQL, Spring boot**
 
