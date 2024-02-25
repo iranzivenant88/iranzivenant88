@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java spring boot microservice project**
 
-- 🌱 I’m currently learning ** Blockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Any software related projects and challenges**
 
